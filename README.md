@@ -12,9 +12,3 @@ Minimal in terms of demoing the protocol.
 Suitable for developers and testing, not actual users.
 
 https://github.com/npfoss/gravity-minimal
-
-## full UI
-Launching imminently at https://www.gravitynet.io/.
-Also has more up to date info on the state of everything.
-
-For the live alpha release, see https://www.gravitynet.io/alpha.
